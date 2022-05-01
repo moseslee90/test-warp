@@ -1,0 +1,7 @@
+## Qick dev
+
+# GET http://127.0.0.1:8080/
+
+
+GET ec2-52-221-194-218.ap-southeast-1.compute.amazonaws.com:8080/todos
+

@@ -11,5 +11,5 @@ async fn main() {
     let routes = apis;
 
     println!("Hello, world!");
-    warp::serve(routes).run(([127, 0, 0, 1], 8080)).await;
+    warp::serve(routes).run(([0, 0, 0, 0], 8080)).await;
 }
